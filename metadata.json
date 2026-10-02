@@ -1,0 +1,6 @@
+{
+  "name": "GOAT392 PRONOSTICS",
+  "description": "Ne pariez plus au hasard, misez sur l'expertise. Pronostics sportifs VIP, combinés certifiés et gestion de bankroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
